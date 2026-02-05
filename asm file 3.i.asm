@@ -1,0 +1,4 @@
+MOV 24H, #56H
+MOV A, 24H
+INC A
+MOV 30H, A
